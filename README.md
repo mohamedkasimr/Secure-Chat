@@ -1,4 +1,4 @@
-# Enterprise Secure Chat Application
+# Secure Chat Application
 
 A highly secure, enterprise-grade Python chat application utilizing `tkinter` for UI and implementing strict security controls modeled on the 7-Layer OSI methodology.
 
