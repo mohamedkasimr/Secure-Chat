@@ -1,0 +1,2 @@
+pycryptodome>=3.18.0
+bcrypt>=4.0.0
